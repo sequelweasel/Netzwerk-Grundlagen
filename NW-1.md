@@ -12,19 +12,15 @@ description: Unsere Lernunterlagen zu Netzwerk-Grundlagen 1
   - [ ] Mit Hypervisor
 - [ ] Debugging Netzwerke
   - [ ] Im Hypervisor
-- [ ] TCP/IP
+- [ ] (TCP/IP)
   - [ ] Wiederholung Theorie
   - [ ] TCP und UDP in VM
 - [ ] OSI-Modell
   - [ ] Wiederholen
 - [ ] IPV4
   - [ ] Wiederholen
-- [ ] IPV6
-  - [ ] Translation from IPV4
-- [ ] Powershell NW-Administration
 - [ ] Netzlaufwerke und Fileserver einrichten
-- [ ] Security Baselines - Windows Firewall, Windows Update, Windows Security Center
-- [ ] Remote-Access
+- [ ] Security Baselines - Windows Firewall
 
 ## Installation einer Windows Server 2022 Desktop VM mit SCVMM mit Template
 
