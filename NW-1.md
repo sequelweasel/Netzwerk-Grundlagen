@@ -111,5 +111,15 @@ Ein Typ1 Hypervisor ist Quasi ein Betriebssystem für die Server-Hardware.
 
 ## IPV4
 
+s. Excalidraw
+
 ## DHCP
+
+## IPv4-Networking
+
+- 198.168.1.0 => Häufig default für Heimnetze (Home-Router wie Fritzbox), meist allerdings mit /16 Subnet
+- CIDR => RFC 1519 (Deprecated) => RFC 4632
+- Private Address Spaces => RFC 1918 (noch relevant, aber Addressklassen durch CIDR deprecated s. RFC 4632)
+- RFC 1
+	- Steve D. Crocker
 
