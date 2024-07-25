@@ -3,13 +3,13 @@ title: Netzwerke-1
 description: Unsere Lernunterlagen zu Netzwerk-Grundlagen 1
 ---
 
-- [ ] DHCP
-  - [ ] Wiederholung: fokus auf DORA und was macht ein DHCP
-- [ ] VMs
-  - [ ] Mit Hypervisor
-- [ ] Netzwerkaufbau visualisieren und erläutern
-  - [ ] Excalidraw Diagram
-  - [ ] Mit Hypervisor
+- [x] DHCP
+  - [x] Wiederholung: fokus auf DORA und was macht ein DHCP
+- [x] VMs
+  - [x] Mit Hypervisor
+- [x] Netzwerkaufbau visualisieren und erläutern
+  - [x] Excalidraw Diagram
+  - [x] Mit Hypervisor
 - [ ] Debugging Netzwerke
   - [ ] Im Hypervisor
 - [ ] (TCP/IP)
@@ -17,8 +17,8 @@ description: Unsere Lernunterlagen zu Netzwerk-Grundlagen 1
   - [ ] TCP und UDP in VM
 - [ ] OSI-Modell
   - [ ] Wiederholen
-- [ ] IPV4
-  - [ ] Wiederholen
+- [x] IPV4
+  - [x] Wiederholen
 - [ ] Netzlaufwerke und Fileserver einrichten
 - [ ] Security Baselines - Windows Firewall
 
@@ -107,7 +107,6 @@ Ein Typ1 Hypervisor ist Quasi ein Betriebssystem für die Server-Hardware.
 - Hyper-V -> Funktioniert nur auf Windows Hosts
 - Oracle VirtualBox
 - Linux => KVM (Kernel-Virtual-Machine), QEMU
-
 
 ## IPV4
 
