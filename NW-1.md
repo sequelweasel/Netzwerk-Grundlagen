@@ -10,8 +10,8 @@ description: Unsere Lernunterlagen zu Netzwerk-Grundlagen 1
 - [x] Netzwerkaufbau visualisieren und erläutern
   - [x] Excalidraw Diagram
   - [x] Mit Hypervisor
-- [ ] Debugging Netzwerke
-  - [ ] Im Hypervisor
+- [x] Debugging Netzwerke
+  - [x] Im Hypervisor
 - [ ] (TCP/IP)
   - [ ] Wiederholung Theorie
   - [ ] TCP und UDP in VM
@@ -121,4 +121,10 @@ s. Excalidraw
 - Private Address Spaces => RFC 1918 (noch relevant, aber Addressklassen durch CIDR deprecated s. RFC 4632)
 - RFC 1
 	- Steve D. Crocker
+
+
+
+## Random Stuff
+
+![[Pasted image 20240726105658.png]]
 
